@@ -1,1 +1,39 @@
- 
+#calc {
+    width: 400px;
+    height: 600px;
+    background-color: lightblue;
+    border-style: solid;
+    margin: auto;
+    padding: 15px;
+    
+}
+.displayCL {
+    padding: 15px;
+  
+
+}
+#displayID {
+    padding-top: 2%;
+    border-style: solid;
+    width: 70%;
+    height: 40px;
+    margin: auto;
+    font-size: 30px;
+    background-color: beige;
+    
+}
+
+
+#numbersID {
+    display: inline-block
+     width: 70%;
+     height: 50px;
+     
+
+ }
+
+.number  {
+    width: 32%;
+    height: 100%;
+
+}
